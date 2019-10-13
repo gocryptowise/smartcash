@@ -95,6 +95,12 @@ https://coinmarketcap.com/currencies/smartcash/#markets
   clicking Markets allows you to view the markets available and the
   trading pairs they offer.
 
+Go CryptoWise
+     :target: https://gocryptowise.com
+
+https://gocryptowise.com/exchanges
+
+Go CryptoWise provides guides and reviews of cryptocurrency exchanges. Trust, relevance and usefulness are three key pillars of Go CryptoWise - read more on top crypto exchanges rated by Go CryptoWise here https://gocryptowise.com/top-crypto-exchanges-2019/
 
 List of exchanges
 -----------------
